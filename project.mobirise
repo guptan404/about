@@ -26,7 +26,10 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": [
+        "#000000"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [
@@ -1042,6 +1045,15 @@
             },
             ".mbr-section-subtitle": {
               "font-style": "italic"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#000000"
+            },
+            "H3": {
+              "color": "#000000"
+            },
+            "H1": {
+              "color": "#000000"
             }
           },
           "_name": "header9",
